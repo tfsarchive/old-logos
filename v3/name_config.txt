@@ -1,0 +1,1 @@
+VTuber _ (status of foreground layer eg white/black) _ (status of background/element) _ (status of bg color eg black/white/transparent).png
